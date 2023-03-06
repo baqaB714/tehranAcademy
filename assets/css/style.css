@@ -4381,3 +4381,20 @@ h2.title-head.text-uppercase.m-b0 {
 .price.categories {
 	text-align: left;
 }
+
+/* others ============================================================== */
+.z_index_100{
+	z-index:100 ;
+}
+.w_100{
+	width: 100%;
+}
+.bg_black_tr{
+	background: #000000ad;
+}
+.h_15rem{
+	height: 15rem;
+}
+.rounded_1{
+	border-radius: 1rem;
+}
