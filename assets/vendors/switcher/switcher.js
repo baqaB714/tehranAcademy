@@ -9,10 +9,10 @@
 	
 	var addThisButton = '<!-- Go to www.addthis.com/dashboard to customize your tools --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5c7aa492bf4a3d15"></script>';
 	
-	jQuery(window).on('load',function(){
-		jQuery('.stylepanel-on-right').animate({'right': '-220px','left': 'auto'});
-		jQuery('body').append(addStylePanel).append(demoWork).append(addThisButton);
-	});
+	// jQuery(window).on('load',function(){
+	// 	jQuery('.stylepanel-on-right').animate({'right': '-220px','left': 'auto'});
+	// 	jQuery('body').append(addStylePanel).append(demoWork).append(addThisButton);
+	// });
 	
 	
 	

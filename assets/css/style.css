@@ -2128,7 +2128,7 @@ button.back-to-top {
 	line-height: 26px;
 	margin: 0;
 	position: fixed;
-	left: 15px;
+	right: 15px;
 	text-align: center;
 	width: 40px;
 	z-index: 999;
